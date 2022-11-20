@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="demo2:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1131488-682f-4a69-9d67-4aaee7607264" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week7 copy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/HelloResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/demo2_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/demo2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-aop-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-aop-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-aop-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-aspects-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-aspects-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-aspects-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-beans-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-beans-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-beans-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-context-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-context-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-context-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-context-indexer-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-context-indexer-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-context-indexer-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-context-support-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-context-support-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-context-support-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-core-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-core-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-core-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-expression-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-expression-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-expression-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-instrument-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-instrument-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-instrument-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-jcl-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-jcl-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-jcl-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-jdbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-jdbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-jdbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-jms-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-jms-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-jms-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-messaging-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-messaging-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-messaging-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-orm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-orm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-orm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-oxm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-oxm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-oxm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-r2dbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-r2dbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-r2dbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-test-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-test-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-test-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-tx-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-tx-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-tx-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-web-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-web-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-web-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-webflux-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-webflux-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-webflux-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-webmvc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-webmvc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-webmvc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-websocket-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-websocket-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/spring-websocket-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/BaseballCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/CricketCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/FortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/HappyFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/HelloSpringApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/SetterDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/TrackCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lol/lol.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/src/main/java/com/example/week7task/Week7TaskApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/src/main/java/com/example/week7task/controllers/DepartmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/src/main/java/com/example/week7task/controllers/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/src/main/java/com/example/week7task/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/src/main/java/com/example/week7task/entity/ErrorMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/src/main/java/com/example/week7task/error/DepartmentNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/src/main/java/com/example/week7task/error/RestResponseEntityExcetionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/src/main/java/com/example/week7task/repository/DepartmentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/src/main/java/com/example/week7task/services/DepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/src/main/java/com/example/week7task/services/DepartmentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7-task copy/src/test/java/com/example/week7task/Week7TaskApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-7-practice-1/src/main/java/com/example/week7practice1/controller/CommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-7-practice-1/src/main/java/com/example/week7practice1/controller/CommentController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/decagon/Desktop/Tasks/demo2/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HelloSpringApp">
+    <configuration name="HelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.HelloSpringApp" />
+      <module name="demo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo2.MyApp" />
+      <module name="demo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 10.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.27" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="corretto-11">
+      <deployment>
+        <artifact name="demo2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/demo2_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="7b0bb515-c08b-454a-a189-c4ba6d4990d1" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49486" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="demo2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloSpringApp" />
+      <item itemvalue="Application.MyApp" />
+      <item itemvalue="Tomcat Server.Tomcat 10.0.27" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloSpringApp" />
+        <item itemvalue="Application.MyApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1131488-682f-4a69-9d67-4aaee7607264" name="Changes" comment="" />
+      <created>1668959864765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668959864765</updated>
+      <workItem from="1668959866466" duration="13509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
